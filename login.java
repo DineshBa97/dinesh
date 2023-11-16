@@ -3,7 +3,7 @@ i am wirtting a code to devops team
 
 
 {
-	a=30
+	a=25
 	b=1
 	c=2
 	d=4
